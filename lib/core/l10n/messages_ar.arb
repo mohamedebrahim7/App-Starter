@@ -1,0 +1,15 @@
+{
+  "hello": "مرحبا",
+  "grocery": "بقالة",
+  "recipe": "وصفة",
+  "explore": "استكشاف",
+    "homePage": "الصفحة الرئيسية",
+    "logout": "تسجيل الخروج",
+    "goToPage3IfUser": "انتقل إلى الصفحة 3 إذا كان المستخدم",
+    "lightTheme": "السمة الفاتحة",
+    "darkTheme": "السمة الداكنة",
+    "systemTheme": "سمة النظام",
+  "systemLanguage": "لغة النظام",
+    "english": "الإنجليزية",
+    "arabic": "العربية"
+}

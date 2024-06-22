@@ -1,0 +1,15 @@
+{
+  "hello": "hello world",
+  "grocery": "Grocery",
+  "recipe": "Recipe",
+  "explore": "Explore",
+  "homePage": "Home Page",
+  "logout": "Logout",
+  "goToPage3IfUser": "Go to Page 3 if User",
+  "lightTheme": "Light Theme",
+  "darkTheme": "Dark Theme",
+  "systemTheme": "System Theme",
+  "systemLanguage": "System Language",
+  "english": "English",
+  "arabic": "Arabic"
+}
