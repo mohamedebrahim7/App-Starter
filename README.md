@@ -28,22 +28,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 | Android 12+ Launcher Icon        | Older Android Versions Launcher Icon       |
 |:-------------------------:|:-------------------------:|
-| ![Android 12+ Launcher Icon](screen_shots/Screenshot_1.jpg)  | ![Older Android Versions Launcher Icon](screen_shots/Screenshot_2.jpg)  |
+| <img src="screen_shots/Screenshot_1.jpg" alt="Android 12+ Launcher Icon" width="270" height="270">  | <img src="screen_shots/Screenshot_2.jpg" alt="Older Android Versions Launcher Icon" width="270" height="270">  |
 
 | Android 12+ Native Splash Screen       | Older Android Versions Native Splash Screen      |
 |:-------------------------:|:-------------------------:|
-| ![Android 12+ Native Splash Screen](screen_shots/Screenshot_3.jpg)  | ![Older Android Versions Native Splash Screen](screen_shots/Screenshot_4.jpg)  |
+| <img src="screen_shots/Screenshot_3.jpg" alt="Android 12+ Native Splash Screen" width="270" height="480">  | <img src="screen_shots/Screenshot_4.jpg" alt="Older Android Versions Native Splash Screen" width="270" height="480">  |
 
 | Onboarding Screen This onboarding screen introduces new users to the app's features. It is shown only once upon the first launch.            | The login screen offers options for logging in as a user with full access or as a guest with restricted functionality.       |
 |:-------------------------:|:-------------------------:|
-| ![Onboarding Screen](screen_shots/Screenshot_5.jpg)  | ![Login Screen](screen_shots/Screenshot_6.jpg)  |
+| <img src="screen_shots/Screenshot_5.jpg" alt="Onboarding Screen" width="270" height="480">  | <img src="screen_shots/Screenshot_6.jpg" alt="Login Screen" width="270" height="480">  |
 
 | Localization  and   Theming   |    Localization and Theming	   |
 |:-------------------------:|:-------------------------:|
-| ![Localization](screen_shots/Screenshot_7.jpg)  | ![Theming](screen_shots/Screenshot_8.jpg)  |
+| <img src="screen_shots/Screenshot_7.jpg" alt="Localization" width="270" height="480">  | <img src="screen_shots/Screenshot_8.jpg" alt="Theming" width="270" height="480">  |
 
-| Restricted Access Screen        | Localized Packaged Screen Fully self-contained with built-in localization for seamless multilingual interaction. |
+| Access Screen is restricted for guest users according to the logic of the code      | Screen1 is a Packaged Screen Fully self-contained with built-in localization  |
 |:-------------------------:|:-------------------------:|
-| ![Localization](screen_shots/Screenshot_9.jpg)  | ![Theming](screen_shots/Screenshot_10.jpg)  |
-
-
+| <img src="screen_shots/Screenshot_9.jpg" alt="Localization" width="270" height="480">  | <img src="screen_shots/Screenshot_10.jpg" alt="Theming" width="270" height="480">  |
